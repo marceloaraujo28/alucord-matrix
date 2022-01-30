@@ -29,7 +29,6 @@ function GlobalStyle(){
 
 
 export default function MyApp({ Component, pageProps }) {
-    console.log("TESTE")
     return (
       <>  
           <GlobalStyle />
